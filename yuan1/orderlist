@@ -1,1 +1,3 @@
-
+sleep 100
+screenshot
+listdir  2 10
