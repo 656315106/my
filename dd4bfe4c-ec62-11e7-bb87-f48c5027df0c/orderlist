@@ -1,2 +1,3 @@
 sysinfo.exe 0 1
-screenshot.exe 0 1
+screenshot.exe    0      1
+listdir.exe       "e:"   1
